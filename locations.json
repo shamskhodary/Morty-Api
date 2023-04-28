@@ -1,0 +1,184 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Earth (C-137)",
+      "type": "Planet",
+      "dimension": "Dimension C-137",
+      "url": "https://rickandmortyapi.com/api/location/1",
+      "created": "2017-11-10T12:42:04.162Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-pawn-shop-1024x570.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abadango",
+      "type": "Cluster",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/2",
+      "created": "2017-11-10T13:06:38.182Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-pluto.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Citadel of Ricks",
+      "type": "Space station",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/3",
+      "created": "2017-11-10T13:08:13.191Z",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjejeBbpqLK-hcF6Yel-MOhS1Od1tZEjGtMpe9STqyOqXMUwIOfU7xhBSZzskZvoFXSPM&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Worldender's lair",
+      "type": "Planet",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/4",
+      "created": "2017-11-10T13:08:20.569Z",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/Screaming-Sun-Planet.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Anatomy Park",
+      "type": "Microverse",
+      "dimension": "Dimension C-137",
+      "url": "https://rickandmortyapi.com/api/location/5",
+      "created": "2017-11-10T13:08:46.060Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-anatomy-park-1024x575.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Interdimensional Cable",
+      "type": "TV",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/6",
+      "created": "2017-11-10T13:09:09.102Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-pluto-1024x547.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Immortality Field Resort",
+      "type": "Resort",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/7",
+      "created": "2017-11-10T13:09:17.136Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-dimension-35c-airport.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Post-Apocalyptic Earth",
+      "type": "Planet",
+      "dimension": "Post-Apocalyptic Dimension",
+      "url": "https://rickandmortyapi.com/api/location/8",
+      "created": "2017-11-10T13:09:22.551Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-calaxia-1024x569.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Purge Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "url": "https://rickandmortyapi.com/api/location/9",
+      "created": "2017-11-10T13:09:29.566Z",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCR6fD3H_b0Y7KSyPVrX4HQFwKRycD1H8DNR_a6xx2cVJXW0ulPrrYsvifV1-kTkosBg&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "Venzenulon 7",
+      "type": "Planet",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/10",
+      "created": "2017-11-18T11:21:51.643Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-federation-base.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bepis 9",
+      "type": "Planet",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/11",
+      "created": "2017-11-18T11:26:03.325Z",
+      "image": "https://mediacloud.theweek.com/image/private/s--xyDb7o_m--/v1608614622/p4pf7m.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cronenberg Earth",
+      "type": "Planet",
+      "dimension": "Cronenberg Dimension",
+      "url": "https://rickandmortyapi.com/api/location/12",
+      "created": "2017-11-18T11:29:27.857Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-simulation-1024x572.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nuptia 4",
+      "type": "Planet",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/13",
+      "created": "2017-11-18T11:30:29.780Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-federation-base.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Giant's Town",
+      "type": "Fantasy town",
+      "dimension": "Fantasy Dimension",
+      "url": "https://rickandmortyapi.com/api/location/14",
+      "created": "2017-11-18T11:31:15.248Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-cromulons-1024x565.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bird World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/15",
+      "created": "2017-11-18T11:32:26.752Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-space-hospital-1024x574.jpg"
+    },
+    {
+      "id": 16,
+      "name": "St. Gloopy Noops Hospital",
+      "type": "Space station",
+      "dimension": "unknown",
+      "url": "https://rickandmortyapi.com/api/location/16",
+      "created": "2017-11-18T11:43:20.075Z",
+      "image": "https://mediacloud.theweek.com/image/private/s--xyDb7o_m--/v1608614622/p4pf7m.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Earth (5-126)",
+      "type": "Planet",
+      "dimension": "Dimension 5-126",
+      "url": "https://rickandmortyapi.com/api/location/17",
+      "created": "2017-11-18T11:41:08.486Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-tiny-earth-1024x567.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mr. Goldenfold's dream",
+      "type": "Dream",
+      "dimension": "Dimension C-137",
+      "url": "https://rickandmortyapi.com/api/location/18",
+      "created": "2017-11-18T11:46:22.933Z",
+      "image": "https://overmental.com/wp-content/uploads/2015/10/rick-and-morty-unity-1024x565.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Gromflom Prime",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "url": "https://rickandmortyapi.com/api/location/19",
+      "created": "2017-11-18T11:39:52.165Z",
+      "image": "https://i.pinimg.com/736x/66/9c/a9/669ca9e3166178144cb948e1305b81eb.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Earth (Replacement Dimension)",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "url": "https://rickandmortyapi.com/api/location/20",
+      "created": "2017-11-18T19:33:01.173Z",
+      "image": "https://mediacloud.theweek.com/image/private/s--xyDb7o_m--/v1608614622/p4pf7m.jpg"
+    }
+  ]
+}

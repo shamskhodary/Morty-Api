@@ -1,0 +1,28 @@
+.about-page {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 2rem 2rem 2rem 7rem;
+}
+
+.about-page h1 {
+  padding: 1rem 0;
+  font-size: 3rem;
+}
+
+
+.about-page h2 {
+  padding: 1rem 0;
+  font-size: 1.8rem;
+}
+
+.about-page p {
+  width: 50%;
+  line-height: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.about-page a {
+  color: #ccc;
+}

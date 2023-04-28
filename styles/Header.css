@@ -1,0 +1,60 @@
+.Header {
+  width: 100%;
+  background-color: rgb(245, 245, 245);
+  height: 38vh;
+
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0.5rem;
+}
+
+.navbar img {
+  width: 45px;
+  height: 45px;
+}
+
+.category {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.title {
+  color: rgb(32, 35, 41);
+  font-size: 5rem;
+  text-align: center;
+  font-weight: 800;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(32, 35, 41);
+}
+
+@media only screen and (min-width: 600px) {
+  .title {
+    font-size: 3rem;
+  }
+
+  .Header {
+    height: 28vh;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 2.8rem;
+  }
+
+  .Header {
+    height: 28vh;
+  }
+}

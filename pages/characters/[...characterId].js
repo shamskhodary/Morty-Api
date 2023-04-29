@@ -37,7 +37,7 @@ const Character = ({ data }) => {
 
 export default Character;
 
-export const getStaticPaths = async () => {
+export const getServerSidePaths = async () => {
   // paths;
   return {
     paths: [],
@@ -45,7 +45,7 @@ export const getStaticPaths = async () => {
   };
 };
 
-export const getStaticProps = async (context) => {
+export const getServerSideProps = async (context) => {
   const { params } = context;
   const response = await axios.get(`/character/${params.characterId}`);
 
